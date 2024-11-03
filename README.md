@@ -1,0 +1,1 @@
+This is a toy 1-hidden_layers-NN (1iu-3hu-1ou) with the purpose of learning to implement forward and back propagation. It will have a dataset of 1000 examples (x,y) of floating numbers and the goal is to approximate the function y = 2x
