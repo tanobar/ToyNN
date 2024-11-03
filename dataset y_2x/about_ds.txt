@@ -1,0 +1,1 @@
+the dataset contains 1000 examples (x,y) where x is a number and y is 2x
